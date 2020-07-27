@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Nada Sghaier",
+    "occupation":"Computer Engineering Student",
+    "description":"A 22y.o student , entrepreneurship passionate and a social volunteer.",
+    "image":"profilepic.jpg",
+    "bio":"Currently working as an Intern . Art enthusiast and working on developping my hard skills as well as my soft skills.",
+    "contactmessage":"Contact me!",
+    "email": "nada.sghaier@eniso.u-sousse.tn",
+    "phone": "+216 52 119 293",
+    "address":{
+      "street":"Av Habib Thameur",
+      "city":"Tunisia",
+      "state":"Tunisie,Ben Arous",
+      "zip": "2074"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/nada.sghaier.946/",
+        "className":"fa fa-facebook"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nada-sghaier/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nadasghaier/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I gained these skills thanks to my academic formation , researching and my internship.",
+    "education":[
+      {
+        "school":"National Engineering School of Sousse",
+        "degree":"2nd year engineering student",
+        "graduated":"Year of graduation : 2022",
+        "description":""
+      },
+      {
+        "school":"Preparatory Institute for Engineering Studies - El Manar",
+        "degree":"Physics-Technologie",
+        "graduated":"June 2019",
+        "description":""
+      },
+      {
+        "school":"Bourguiba Pioneer Highschool - Tunis",
+        "degree":"Physics-Technologie",
+        "graduated":"June 2017",
+        "description":"Baccalaureate degree with honors."
+      }
+    ],
+    "work":[
+      {
+        "company":"Insodev",
+        "title":"Intern ",
+        "years":"July 2020 - Present",
+        "description":"React JS and Software Testing"
+      }
+    ],
+    "associative":[
+      {
+        "company":"BIL LPBT",
+        "title":"Events manager ",
+        "years":"2015-2016",
+        "description":"Managing educational events."
+      },
+      {
+        "company":"Enactus IPEIEM",
+        "title":"Team Leader ",
+        "years":"2017-2018",
+        "description":"Team management - Stress management - Team work - Being part of the national Enactus competition."
+      },
+      {
+        "company":"Spark Club ENISo",
+        "title":"Reporting Manager",
+        "years":"2020-present",
+        "description":"Working on developing entrepreneurial skills with youngsters (highschool students) and sharing knowledge ."
+      },
+      {
+        "company":"Junior Entreprise ENISo - JEENISo",
+        "title":"Member",
+        "years":"2020-present",
+        "description":"Working in a mini entreprise and learning more about professional life."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"45%"
+      },
+      {
+        "name":"C",
+        "level":"70%"
+      }
+    ],
+    "languages":
+    [
+    {
+      "language":"Arabic",
+      "level":"Native Language"
+    },
+    {
+      "language":"French",
+      "level":"Fluent"
+    },
+    {
+      "language":"English",
+      "level":"Fluent"
+    }
+
+  ]
+  },
+
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Aphro Accessories",
+        "category":"Selling hand made jewerly online .",
+        "image":"aphro.jpg",
+        "url":"https://www.instagram.com/aphro_accessories/"
+      },
+      {
+        "title":"P'ADEM",
+        "category":"Creating a brand of recycled bags made out of PVC banners for the sake of children in need.",
+        "image":"padem.png",
+        "url":"https://www.facebook.com/PADEMofficiel/"
+        
+      }
+      
+    ]
+  }
+  
+}
